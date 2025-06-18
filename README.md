@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I am  Muhammad Hammad👋
+🔐 Cybersecurity Enthusiast |
+🧠 About Me
+Aspiring cybersecurity enthusiast with a passion for ethical hacking and digital security. Skilled in basic C++ and OOP, with beginner knowledge of Kali Linux and its core commands. Eager to grow in the field and build a career in cybersecurity.
+
+
 
 <!--
 **MuhammadHammad034054/MuhammadHammad034054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
