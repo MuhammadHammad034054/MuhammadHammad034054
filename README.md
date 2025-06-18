@@ -1,4 +1,4 @@
-## 👋  Hi I am  Muhammad Hammad
+## 👋 Hi, I'm Muhammad Hammad
 🎓 Bs Cyber Security Student @ PAF-IAST, Haripur (Pakistan)
 ## 🔐 Cybersecurity Enthusiast |
 ## 🧠 About Me
