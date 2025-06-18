@@ -1,4 +1,5 @@
 ## Hi I am  Muhammad Hammad👋
+🎓 Bs Cyber Security Student @ PAF-IAST, Haripur (Pakistan)
 ## 🔐 Cybersecurity Enthusiast |
 ## 🧠 About Me
 Aspiring cybersecurity enthusiast with a passion for ethical hacking and digital security. Skilled in basic C++ and OOP, with beginner knowledge of Kali Linux and its core commands. Eager to grow in the field and build a career in cybersecurity.
